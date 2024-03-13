@@ -1,33 +1,28 @@
-# About Me
+# Metric Tracker
 
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
-Time spent: ** 9 ** hours spent in total
+Time spent: ** 15 or more I was stuck for a while** hours spent in total
 
 ## Features
 
 The following **required** features are completed:
 
-- [x] Modifies title in head so that the tab has a unique name, (e.g. About Me). (1pts)
-- [x] Uses a mix of headers, paragraphs, and div's. (3pts)
-- [x] Includes at least 3 paragraphs. (3pts)
-- [X] Includes at least one image. (2pts)
-- [x] Includes a .css file to style with at least 4 ways to format the elements in the html. (3pts)
-- [X] Includes a link that directs to your Github account (can be main account or specifically to your Platform_Computing Repo). (3pts)
+- [x] Organize Github project for Assignment 2 (2 pt)
+- [x] Transfer your About Me Page into a React App with screenshot of output in the Images folder(3 pt)
+- [x] Set up Selenium (2 pt)
+- [x] Write your first Selenium script with screenshot of output in the Images folder (4 pt)
+- [x] Monitor at least 2 metrics using Selenium with screenshot of output in the Images folder (4 pt)
 
 The following **bonus** features are implemented:
 
-- [x] Applies different font(s). (0.5 pt)
-- [x] Applies border and margins. (0.5 pt)
-- [x] DESCRIBE ANY OTHER FEATURES HERE.
-  ** Added music tried to get it to autoplay but everything I tried did not wanna work**
-
-** HyperLink**
-  <a href="https://github.com/Kingleon92/About-me">link text</a>
+- [x] Saves metrics into csv file (1 pt)
+- [x] Monitors at least 4 metrics (1 pt)
+- [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
 
-<a href="https://www.youtube.com/watch?v=zUpWCNwiPiY">link text</a>
+<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
 
 ## Notes:
