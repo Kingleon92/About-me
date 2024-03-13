@@ -17,7 +17,7 @@ The following **required** features are completed:
 The following **bonus** features are implemented:
 
 - [x] Saves metrics into csv file (1 pt)
-- [x] Monitors at least 4 metrics (1 pt)
+- [ ] Monitors at least 4 metrics (1 pt)
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
