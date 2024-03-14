@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-title='Example Video Walkthrough' width='' alt='[Example Video Walkthroug](https://www.youtube.com/watch?v=IiQWJXgzNDU)h' />
+'Example Video Walkthrough' '' '[Video of Assignment](https://www.youtube.com/watch?v=IiQWJXgzNDU)h' />
 
 
 ## Notes:
