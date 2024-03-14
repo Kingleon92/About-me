@@ -2,7 +2,7 @@
 
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
-Time spent: ** 15 or more I was stuck for a while** hours spent in total
+Time spent: ** 20 or more I was stuck for a while** hours spent in total
 
 ## Features
 
@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-'Example Video Walkthrough' '[Video Link](https://www.youtube.com/watch?v=IiQWJXgzNDU)/>
+'Example Video Walkthrough' '[Video Link](https://www.youtube.com/watch?v=IiQWJXgzNDU)
 
 
 ## Notes:
