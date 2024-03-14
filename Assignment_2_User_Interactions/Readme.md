@@ -2,7 +2,7 @@
 
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
-Time spent: ** 20 or more I was stuck for a while** hours spent in total
+Time spent: ** 40 or more I was stuck for a while** hours spent in total
 
 ## Features
 
