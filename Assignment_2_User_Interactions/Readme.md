@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-'Example Video Walkthrough' '' '[Video of Assignment](https://www.youtube.com/watch?v=IiQWJXgzNDU)h' />
+'Example Video Walkthrough' '[Video Link](https://www.youtube.com/watch?v=IiQWJXgzNDU)/>
 
 
 ## Notes:
