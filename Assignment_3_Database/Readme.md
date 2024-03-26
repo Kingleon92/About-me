@@ -18,8 +18,7 @@ The following **bonus** features are implemented:
 them via user (2 pt).
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 ## Screenshot and/or Video Walkthrough
-<img src="[https://imgur.com/gallery/4rAXx5x](https://imgur.com/undefined)" title='Example Video Walkthrough'
-width='' alt='Example Video Walkthrough' />
+<img src="[https://imgur.com/gallery/4rAXx5x]
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to
 add emphasis in text
